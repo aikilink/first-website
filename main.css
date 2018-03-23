@@ -1,0 +1,25 @@
+/*
+Selector {
+    Property: Value
+}
+
+Ex:
+p {
+    color: brown
+}
+*/
+
+h2 {
+    color: burlywood;
+    text-align: center;
+    border: 5px solid rgba(255, 200, 77);
+}
+
+.div1 {
+    color: darkgreen
+}
+
+.div2 {
+    color: coral;
+    font: small-caps; font-size: larger; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
